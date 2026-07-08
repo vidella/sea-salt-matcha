@@ -73,5 +73,5 @@ It really helps support the project!
 ---
 
 <p align="center">
-Made with ☁️ by <strong>Tip & Tale</strong>
+Made with ☁️ by <strong>tipandtale</strong>
 </p>

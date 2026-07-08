@@ -1,0 +1,21 @@
+{
+  "name": "sea-salt-matcha",
+  "displayName": "Sea Salt Matcha",
+  "description": "A soothing pastel theme featuring creamy baby blue and a hint of matcha green. Sweet, refreshing, and gentle on the eyes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sea Salt Matcha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sea Salt Matcha-color-theme.json"
+      }
+    ]
+  }
+}

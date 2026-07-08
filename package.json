@@ -2,7 +2,7 @@
   "name": "sea-salt-matcha",
   "displayName": "Sea Salt Matcha",
   "description": "A soothing pastel theme featuring creamy baby blue and a hint of matcha green. Sweet, refreshing, and gentle on the eyes.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "tipandtale",
   "icon": "images/icon.png",
   "engines": {
@@ -12,9 +12,9 @@
     "Themes"
   ],
   "repository": {
-    "type": "git",
-    "url": "https://github.com/vidella/sea-salt-matcha"
-  },
+  "type": "git",
+  "url": "https://github.com/vidella/sea-salt-matcha.git"
+},
   "homepage": "https://github.com/vidella/sea-salt-matcha",
   "bugs": {
     "url": "https://github.com/vidella/sea-salt-matcha/issues"

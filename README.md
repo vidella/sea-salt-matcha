@@ -4,7 +4,7 @@ A soothing pastel VS Code theme inspired by sea salt and matcha.
 
 Featuring creamy baby blue with subtle matcha green accents, Sea Salt Matcha is designed to be soft, refreshing, and gentle on the eyes for comfortable coding throughout the day.
 
-![Sea Salt Matcha Preview](./images/preview.png)
+![Sea Salt Matcha Preview](images/preview.png)
 
 ---
 

@@ -1,21 +1,77 @@
-<<<<<<< HEAD
-# sea-salt-matcha README
+# ☁️ Sea Salt Matcha
 
-## Working with Markdown
+A soothing pastel VS Code theme inspired by sea salt and matcha.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Featuring creamy baby blue with subtle matcha green accents, Sea Salt Matcha is designed to be soft, refreshing, and gentle on the eyes for comfortable coding throughout the day.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<p align="center">
+  <img src="images/preview.png" alt="Sea Salt Matcha Preview" width="900">
+</p>
 
-## For more information
+---
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## ✨ Features
 
-**Enjoy!**
-=======
-# sea-salt-matcha
-A soothing pastel theme featuring creamy baby blue and a hint of matcha green. Sweet, refreshing, and gentle on the eyes.
->>>>>>> 4e177d8d6a5a6d0fe22dcdc2787ec104761d4e0d
+- ☁️ Soft baby blue UI accents
+- 🍵 Gentle matcha green highlights
+- 🌙 Calm dark background for reduced eye strain
+- 💙 Pastel syntax highlighting for better readability
+- 🧈 Butter yellow constants and numbers
+- 💜 Soft lavender variables
+- 💻 Designed for comfortable everyday coding
+
+---
+
+## 🎨 Color Palette
+
+| Color | Hex |
+| :--- | :--- |
+| Background | `#191919` |
+| Sea Salt Blue | `#D5E3EE` |
+| Matcha Green | `#DBE9CA` |
+| Lavender | `#D8C7F4` |
+| Butter Yellow | `#F5E7A1` |
+
+---
+
+## 📦 Installation
+
+1. Open **Extensions** in Visual Studio Code.
+2. Search for **Sea Salt Matcha**.
+3. Click **Install**.
+4. Open **Preferences → Color Theme**.
+5. Select **Sea Salt Matcha**.
+
+---
+
+## 🌊 Inspiration
+
+Sea Salt Matcha was inspired by the calming colours of the ocean and the soft tones of matcha. The goal was to create a theme that feels light, cozy, and easy on the eyes while maintaining enough contrast for everyday coding.
+
+---
+
+## 🔗 Links
+
+- 🛍️ **VS Code Marketplace**  
+  https://marketplace.visualstudio.com/items?itemName=tipandtale.sea-salt-matcha
+
+- 💻 **GitHub**  
+  https://github.com/vidella/sea-salt-matcha
+
+---
+
+## ❤️ Support
+
+If you enjoy using **Sea Salt Matcha**, please consider:
+
+- ⭐ Starring the repository on GitHub
+- 🛍️ Leaving a rating on the VS Code Marketplace
+- 💙 Sharing it with fellow developers
+
+It really helps support the project!
+
+---
+
+<p align="center">
+Made with ☁️ by <strong>Tip & Tale</strong>
+</p>

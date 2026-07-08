@@ -12,13 +12,14 @@
     "Themes"
   ],
   "repository": {
-    "type": "git",
-    "url": "https://github.com/tipandtale/sea-salt-matcha"
-  },
-  "homepage": "https://github.com/tipandtale/sea-salt-matcha",
-  "bugs": {
-    "url": "https://github.com/tipandtale/sea-salt-matcha/issues"
-  },
+  "type": "git",
+  "url": "https://github.com/vidella/sea-salt-matcha"
+},
+"homepage": "https://github.com/vidella/sea-salt-matcha",
+"bugs": {
+  "url": "https://github.com/vidella/sea-salt-matcha/issues"
+},
+  "license": "MIT",
   "contributes": {
     "themes": [
       {

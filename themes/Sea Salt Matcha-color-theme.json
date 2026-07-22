@@ -22,9 +22,9 @@
 
     "activityBar.background": "#191919",
     "activityBar.foreground": "#D5E3EE",
-    "activityBar.inactiveForeground": "#9FB4C8",
+    "activityBar.inactiveForeground": "#9fb4c8",
     "activityBar.activeBackground": "#232323",
-    "activityBarBadge.background": "#D5E3EE",
+    "activityBarBadge.background": "#d5e3ee",
     "activityBarBadge.foreground": "#191919",
 
     "list.activeSelectionBackground": "#D5E3EE",

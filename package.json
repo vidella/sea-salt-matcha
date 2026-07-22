@@ -1,32 +1,37 @@
 {
-  "name": "sea-salt-matcha",
-  "displayName": "Sea Salt Matcha",
-  "description": "A soothing pastel theme featuring creamy baby blue and a hint of matcha green. Sweet, refreshing, and gentle on the eyes.",
-  "version": "0.0.7",
-  "publisher": "tipandtale",
-  "icon": "images/icon.png",
-  "engines": {
-    "vscode": "^1.125.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "repository": {
-  "type": "git",
-  "url": "https://github.com/vidella/sea-salt-matcha.git"
-},
-  "homepage": "https://github.com/vidella/sea-salt-matcha",
-  "bugs": {
-    "url": "https://github.com/vidella/sea-salt-matcha/issues"
-  },
-  "license": "MIT",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Sea Salt Matcha",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Sea Salt Matcha-color-theme.json"
-      }
-    ]
-  }
+	"name": "sea-salt-matcha",
+	"displayName": "Sea Salt Matcha",
+	"description": "A soothing pastel theme featuring creamy baby blue and a hint of matcha green. Sweet, refreshing, and gentle on the eyes.",
+	"version": "0.0.9",
+	"publisher": "tipandtale",
+	"icon": "images/icon.png",
+	"engines": {
+		"vscode": "^1.125.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vidella/sea-salt-matcha.git"
+	},
+	"homepage": "https://github.com/vidella/sea-salt-matcha",
+	"bugs": {
+		"url": "https://github.com/vidella/sea-salt-matcha/issues"
+	},
+	"license": "MIT",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sea Salt Matcha",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sea Salt Matcha-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1783571860345,
+		"targetPlatform": "undefined",
+		"size": 1674583
+	}
 }
